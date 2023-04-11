@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Frames Example</title>
+</head>
+<frameset rows="20%, 30%, 50%"> <!-- Define frame layout with three rows -->
+  <frame src="encabezado.html">
+  <frame src="logo.html"<!-- Specify the source URL for the top frame -->
+  <frameset cols="25%, 75%"> <!-- Define nested frame layout with two columns -->
+    <frame src="menu.html"> <!-- Specify the source URL for the left frame -->
+    <frame src="principal.html"> <!-- Specify the source URL for the right frame -->
+  </frameset>
+  <frame src="pie.html"> <!-- Specify the source URL for the bottom frame -->
+</frameset>
+<body>
+  <p>If you see this, your browser does not support frames.</p>
+</body>
+</html>
+
