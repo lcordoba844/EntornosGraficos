@@ -6,15 +6,30 @@
     </head>
     <body>
         
-        <p><label><input type="radio" name="opcion" id="X" value="X" />X</label><br />
-            <label><input type="radio" name="opcion" id="Y" value="Y" />Y</label></p>
-
+        <select name="lista">
+            <optgroup label="Caso 1">
+                <option>Mayo</option>
+                <option>Junio</option>
+            </optgroup>
+            <optgroup label="Caso 2">
+                <option>Mayo</option>
+                <option>Junio</option>
+            </optgroup>
+        </select>
 
         <br/>
         <br/>
         
-        <p><label><input type="radio" name="opcion1" id="X" value="X" />X</label><br />
-            <label><input type="radio" name="opcion2" id="Y" value="Y" />Y</label></p>   
+        <select name="lista[]" multiple="multiple">
+            <optgroup label=" Caso 1">
+                <option>Mayo</option>
+                <option>Junio</option>
+            </optgroup>
+            <optgroup label=" Caso 2">
+                <option>Mayo</option>
+                <option>Junio</option>
+            </optgroup>
+        </select>
 
     </body> 
 </html>
