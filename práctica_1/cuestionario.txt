@@ -1,48 +1,4 @@
 Entornos Gráficos Práctica HTML
 
-Ejercitación 1
-
-1) HTML (HyperText Markup Language) es un lenguaje de marcado definido como estándar para la World Wide Web o más conocido como WWW,
-es un lenguaje que utiliza etiquetas para definir la estructura de una página web de forma legible tanto como para desarrolladores
-como para los navegadores.
-	Sus primeros años se dedicaron al desarrollo del lenguaje con la finalidad de describir documentos científicos a principios
-de los noventa, pero rápidamente fue cambiando su norte en la medida que se hizo notoria su amplia capacidad de aplicación
-en el nuevo mundo del internet. En el año 1995 hubo un intento de masivisar la utilización de HTML en su versión 3.0 que no tuvo
-éxito. En base a esto se continuó el desarrollo con un enfoque más pragmático hasta llegar al HTML 3.2
-que se finaliza dos años después y del que deriva su versión más estable durante mucho tiempo el HTML 4.1.
-    Durante varios años posteriores se fueron abriendo diferentes grupos de trabajo que continuaron en el estudio
-del lenguaje de marcado pero intentando desarrollar un equivalente basado en XML (eXtensible Markup Language), el XHTML.
-Estos grupos de trabajo decantaron sus investigaciones en varios papers distintos en los que se utilizaba HTML como maqueta
-pero no obtuvieron demasiado apoyo en su finalidad práctica.
-    Con el pasar de los años y el surgimiento de distintas tecnologías como Xforms revivió la necesidad de un HTML robusto
-y estandarizado para la web y se comenzó a trabajar en HTML5, versión que extendida y popularizada actualmente,
-que incluye la posibilidad de añadir archivos multimedia y marcar código ejecutable, y buscó unificar los distintos
-intérpretes desarrollados por cada navegador para que un mismo HTML presente pocas diferencias independientemente
-de donde se levante.
-
-2) 
-3)
-4)
-5)
-
-Ejercitación 2
-
-a)
-b)
-c)
-d)
-e)
-f)
-
-Ejercitación 3
-
-a) <a href="http://www.google.com.ar">Click aquí para ir a Google</a> Crea un enlace que al clickearlo abre la página destino que esta declarada en la izquierda 
-b)
-c)
-d)
-e)
-f)
-g)
-h)
-i)
+https://docs.google.com/document/d/1TD0kh2RClj_rAhnN1Ty97OKtL8FlMd8QrRnnwVeo3nE/edit
 
