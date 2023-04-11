@@ -36,7 +36,7 @@ f)
 
 Ejercitación 3
 
-a)
+a) <a href="http://www.google.com.ar">Click aquí para ir a Google</a> Crea un enlace que al clickearlo abre la página destino que esta declarada en la izquierda 
 b)
 c)
 d)
