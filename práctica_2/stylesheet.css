@@ -9,9 +9,17 @@ p#normal {
     border-color: blue;
     border-width: 2px;
     }
-
 #distinto {
-background-color: #9EC7EB;
-color: red;
-}
-
+    background-color: #9EC7EB;
+    color: red;
+    }
+p.quitar {
+    color: red;
+    }
+*.desarrollo {
+    font-size: 8px;
+    }
+.importante {
+    font-size: 20px;
+    }
+    
