@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <link rel="stylesheet" href="./estilos.css">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" 
             integrity="sha384- ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
@@ -18,8 +19,21 @@
             integrity="sha384- JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
         </script>
         <title>Probando bootstrap</title>
+        <meta charset="utf-8">
     </head>
+
     <body>
-        
+        <div class="container contenedor">
+            <div class="row">
+                <div class="col-md-12 col-sm-*" style="background-color: bisque; height: 65px">F1_Column 1</div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 col-sm-*" style="background-color: cadetblue; height: 65px;">F2_Column1</div>
+                <div class="d-none d-sm-block col-md-6" style="background-color: coral; height: 65px">F2_Column2</div>
+            </div>
+            <div class="row">
+                <div class="d-md-none col-sm-12" style="background-color: crimson; height: 65px">F3_Column1</div>
+            </div>
+        </div> 
     </body>
 </html>
